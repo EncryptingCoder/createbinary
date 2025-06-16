@@ -1,0 +1,112 @@
+{
+  "variants": {
+    "facing=down,receiving=false,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/unpowered",
+      "x": 180
+    },
+    "facing=down,receiving=false,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/transmitting",
+      "x": 180
+    },
+    "facing=down,receiving=true,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/receiving",
+      "x": 180
+    },
+    "facing=down,receiving=true,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/transmitting_receiving",
+      "x": 180
+    },
+    "facing=east,receiving=false,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_unpowered",
+      "x": 270,
+      "y": 270
+    },
+    "facing=east,receiving=false,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_transmitting",
+      "x": 270,
+      "y": 270
+    },
+    "facing=east,receiving=true,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_receiving",
+      "x": 270,
+      "y": 270
+    },
+    "facing=east,receiving=true,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_transmitting_receiving",
+      "x": 270,
+      "y": 270
+    },
+    "facing=north,receiving=false,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_unpowered",
+      "x": 270,
+      "y": 180
+    },
+    "facing=north,receiving=false,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_transmitting",
+      "x": 270,
+      "y": 180
+    },
+    "facing=north,receiving=true,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_receiving",
+      "x": 270,
+      "y": 180
+    },
+    "facing=north,receiving=true,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_transmitting_receiving",
+      "x": 270,
+      "y": 180
+    },
+    "facing=south,receiving=false,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_unpowered",
+      "x": 270
+    },
+    "facing=south,receiving=false,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_transmitting",
+      "x": 270
+    },
+    "facing=south,receiving=true,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_receiving",
+      "x": 270
+    },
+    "facing=south,receiving=true,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_transmitting_receiving",
+      "x": 270
+    },
+    "facing=up,receiving=false,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/unpowered",
+      "y": 180
+    },
+    "facing=up,receiving=false,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/transmitting",
+      "y": 180
+    },
+    "facing=up,receiving=true,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/receiving",
+      "y": 180
+    },
+    "facing=up,receiving=true,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/transmitting_receiving",
+      "y": 180
+    },
+    "facing=west,receiving=false,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_unpowered",
+      "x": 270,
+      "y": 90
+    },
+    "facing=west,receiving=false,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_transmitting",
+      "x": 270,
+      "y": 90
+    },
+    "facing=west,receiving=true,transmitting=false": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_receiving",
+      "x": 270,
+      "y": 90
+    },
+    "facing=west,receiving=true,transmitting=true": {
+      "model": "createbinary:block/computerized_redstone_link/vertical_transmitting_receiving",
+      "x": 270,
+      "y": 90
+    }
+  }
+}
